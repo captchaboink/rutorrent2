@@ -1,7 +1,7 @@
 FROM phusion/baseimage:0.9.16
 
-ENV RUTORRENT_URI=https://bintray.com/artifact/download/novik65/generic/rutorrent-3.6.tar.gz\
-    RUTORRENT_SHA1=5870cddef717c83560e89aee56f2b7635ed1c90d\
+ENV RUTORRENT_URI=https://bintray.com/artifact/download/novik65/generic/rutorrent-3.7.tar.gz\
+    RUTORRENT_SHA1=4be55a9038ae9c9eb6052cb65ed6139a591a49a2\
     RUTORRENT_PLUGINS_URI=https://bintray.com/artifact/download/novik65/generic/plugins-3.6.tar.gz\
     RUTORRENT_PLUGINS_SHA1=617625cda45c689f5505fbfdfb6cc4000bc6b1d9
 
